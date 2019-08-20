@@ -1,0 +1,12 @@
+.Column {
+  width: 300px;
+  float: left;
+}
+.Column {
+  width: 300px;
+  float: right;
+}
+
+.Rhinos ul {
+  font-weight: bold;
+}
